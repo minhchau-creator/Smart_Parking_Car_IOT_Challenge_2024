@@ -1,4 +1,4 @@
-
+link slide : https://docs.google.com/presentation/d/1XXhJfO71u4i1TS0cSznDTZAcBkt8pjro/edit?usp=sharing&ouid=108064294378218914099&rtpof=true&sd=true 
 # Smart Parking Car IoT Challenge 2024
 
 ## Introduction
